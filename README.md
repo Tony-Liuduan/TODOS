@@ -11,3 +11,7 @@
 4. webworker
     * [Web Worker 文献综述](https://mp.weixin.qq.com/s/MyRRIbn-UoruVD1dpvD-QQ)
 5. [译|增量 DOM 与虚拟 DOM 的对比使用](https://juejin.cn/post/6903765877296988174)
+6. git master push
+    - package version update
+    - changelog
+    - tag ?
