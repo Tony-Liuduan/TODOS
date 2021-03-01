@@ -1,5 +1,7 @@
 # TODOS
 
+> 出处: https://github.com/xitu/gold-miner/blob/master/front-end.md
+
 1. node
     * [在 Node.js 中避免内存泄漏：性能最佳实践](https://juejin.cn/post/6911488842079928327)
 2. Immutability
@@ -10,6 +12,7 @@
     * [[译]鲜为人知的 GraphQL 特性](https://juejin.cn/post/6844904181967355911)
 4. webworker
     * [Web Worker 文献综述](https://mp.weixin.qq.com/s/MyRRIbn-UoruVD1dpvD-QQ)
+    * [译|在浏览器上使用 NoSQL 数据库 IndexedDB](https://juejin.cn/post/6930883284456964109)
 5. [译|增量 DOM 与虚拟 DOM 的对比使用](https://juejin.cn/post/6903765877296988174)
 6. git master push
     - package version update
